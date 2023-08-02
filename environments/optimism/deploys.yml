@@ -1,0 +1,86 @@
+agent.aragonpm.eth:
+  versions:
+    1.0.0:
+      date: 2023-07-30T22:24:09.000Z
+      txHash: '0xf3b49f70ffc55a7de9f98e0d04344e0bd971b67364ece2dc648a347e012653b6'
+      ipfsHash: QmR7eCVpkhxGY8ZYdXEkAHyop7CQvTAR2Dodaz2BZttVaQ
+      contractAddress: '0x1B35F10413859D25Cf63D27336eF0434acF113FD'
+      commitHash: abe759f452aeafa9954b5896dd7b47803f772e43
+finance.aragonpm.eth:
+  versions:
+    1.0.0:
+      date: 2023-07-31T21:17:45.000Z
+      txHash: '0x11136475a886d1507f8b12a7221904eed239fb01c11a70fae26843c57f0ca7a1'
+      ipfsHash: QmYdWyXfCyPSuWzuwZfKgHeh1pfx7tQsYy9VSdPHGCaEyX
+      contractAddress: '0x6645516FED458f900B5c89a095e0a6D099c6D529'
+      commitHash: 20c55a2a375cd2c8f244cc7733f81db7b114577c
+token-manager.aragonpm.eth:
+  versions:
+    1.0.0:
+      date: 2023-07-31T21:38:03.000Z
+      txHash: '0x67566e09cb00986f86e56fb7cdfd2ecc763925a7d63b201fa3595ae93c926f5c'
+      ipfsHash: QmP5T8Dt3tDpkfaBYaG149dejYao8vqTeHgdqHVqRcA9Ro
+      contractAddress: '0xc271F2382ec150dE7536168F10C988766Eb0815b'
+      commitHash: 7674439b834b9d491c30c0d771ccb36380cd221a
+vault.aragonpm.eth:
+  versions:
+    1.0.0:
+      date: 2023-07-31T21:55:11.000Z
+      txHash: '0x1e893bf01c685f3e0c45ca2b84c0632912ff491f07b7b4cfd1652e335f4acdd0'
+      ipfsHash: Qmawu9n8RgVZPMoB9RFg4smPKeCsq3JJdeY7zHgti8zCgc
+      contractAddress: '0x92f0155e2354461e8AD278dFA37ad7DA03fe9051'
+      commitHash: 4988568df0e0058520f03784dc65cf81d15013d8
+voting.aragonpm.eth:
+  versions:
+    1.0.0:
+      date: 2023-07-31T23:14:29.000Z
+      txHash: '0xed05b5477ea60fa84c288323f9b2eeb256512ed49ae490b2287e17b1e01c68c1'
+      ipfsHash: QmduGtiMXRopqgpR1qJyFMURM4yUSxsnkYYqudKLYvwMJE
+      contractAddress: '0xD233d46dDEceEf8cC8679f281ee5892f94c2945c'
+      commitHash: 7674439b834b9d491c30c0d771ccb36380cd221a
+bare-template.aragonpm.eth:
+  versions:
+    1.0.0:
+      date: 2023-08-02T03:12:41.000Z
+      txHash: '0xd81b2763b645b7ce2f6c39b490bb86dd739ca8617964d54d9becb4cf31af8fd0'
+      ipfsHash: QmTjqeEokQAuYsUy5SutBXJeaagLgpnryx9KbqmNfCPbqx
+      contractAddress: '0x09b990E29ed6986eC5968Db2E69d2E08cf0b145F'
+      commitHash: 0d02836006c1ffcc29567f3c8d93c33eab477c6b
+    2.0.0:
+      date: 2023-08-02T15:27:45.000Z
+      txHash: '0x1fb4b01bb2e99774b11d824b0c61f2e5648ce569b2352ff42f9f2804b27a785e'
+      ipfsHash: QmTjqeEokQAuYsUy5SutBXJeaagLgpnryx9KbqmNfCPbqx
+      contractAddress: '0x47fe46411B9Ec36a0339f2Efb002AD56b1F9D37f'
+      commitHash: 0d02836006c1ffcc29567f3c8d93c33eab477c6b
+company-template.aragonpm.eth:
+  versions:
+    1.0.0:
+      date: 2023-08-02T15:32:03.000Z
+      txHash: '0xc7d192f48d69f42dea71d4e5cf3ea8ce3b1d3c4fae80cb29236466bf90f1e64d'
+      ipfsHash: QmXfQ9KEqnY1abHN3j7ztxASKaaSuhaFZUAFuzsAEcRqgC
+      contractAddress: '0xE692b0e7e04a0D3D81F1a11e2b3B1e06271ca3cC'
+      commitHash: 0e0df6e50b4a2af1ef5049839f7121f1a6f47a6c
+company-board-template.aragonpm.eth:
+  versions:
+    1.0.0:
+      date: 2023-08-02T15:38:51.000Z
+      txHash: '0x9df58a59a598065923634f700c5d079cf1db9f03e998861ea54485703a44a86a'
+      ipfsHash: QmQ4ccDbY2guceymj78H1jjRGsHcCBVM3DgSHeWTTfjnEA
+      contractAddress: '0x138E5FE852D2cCf40310919Fdc6261B884C9e557'
+      commitHash: 0e0df6e50b4a2af1ef5049839f7121f1a6f47a6c
+membership-template.aragonpm.eth:
+  versions:
+    1.0.0:
+      date: 2023-08-02T15:42:55.000Z
+      txHash: '0x000623c8c9a0b41213bd92017c449b62fe660966f48cdd60fd2aaa62b9f45af4'
+      ipfsHash: QmYr7kgmFFZCiUcxxFsHH3YzsSHxo4iUjQGjRfMdsR1AJp
+      contractAddress: '0xc35f77BD8e1fF947Ba3ab120Aa35f704d6B63157'
+      commitHash: 0e0df6e50b4a2af1ef5049839f7121f1a6f47a6c
+reputation-template.aragonpm.eth:
+  versions:
+    1.0.0:
+      date: 2023-08-02T15:46:41.000Z
+      txHash: '0x2d9c82090bf8537c9a1b3a69c6dd52729303f879350485847a37a3fd8edfeee2'
+      ipfsHash: QmNiQqgHgcbUcZAYYRyUruSqhhXHeaNrGy6h2rPWook4X9
+      contractAddress: '0xe3B3304b94D2160AF5547716F322d35Ae72B6224'
+      commitHash: 0e0df6e50b4a2af1ef5049839f7121f1a6f47a6c
